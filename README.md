@@ -16,3 +16,26 @@ It outlines the structure, content placement, and functionality **before** addin
 - Balsamiq  
 - Sketch
 
+
+
+## 🧩 Key Elements of a Wireframe
+
+### 1. Layout Structure
+This defines how the page is **organized and divided** — sections, columns, and spacing.  
+**Example:** A homepage might have a header, main content area, sidebar, and footer.  
+➡️ This helps designers visualize the hierarchy of information and how users will move through content.
+
+### 2. Navigation
+Represents how users will **move between pages or sections** of a site or app.  
+**Example:** A top navigation bar with links like *Home*, *About*, *Services*, and *Contact*.  
+➡️ Ensures smooth user flow and easy access to key information.
+
+### 3. Content Placement
+Shows where **text, images, and buttons** will be positioned on the screen.  
+**Example:** Putting a “Sign Up” button near the top makes it more visible and encourages user interaction.  
+➡️ Helps maintain visual balance and emphasizes important actions or messages.
+
+### 4. Functionality
+Indicates **interactive elements** like buttons, sliders, forms, or links.  
+**Example:** Highlighting a “Search Bar” at the top of a page shows users can look up information quickly.  
+➡️ Demonstrates how the product will respond to user actions and improve usability.
