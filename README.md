@@ -74,3 +74,31 @@ A detailed Figma prototype showing real images, styled buttons, and proper align
 This is a High-fidelity (hi-fi) wireframe since it includes accurate spacing, colors, typography, and even interactive elements.
 
 
+
+## 🛠️ Popular Wireframing Tools
+
+There are several tools designers use to create wireframes — each with unique strengths depending on the project’s complexity and team workflow.
+
+### 🖌️ 1. Figma
+**Figma** is one of the most popular and powerful wireframing tools available today.  
+It’s a **browser-based design platform** that allows real-time collaboration, meaning multiple designers can work on the same project simultaneously.
+
+**Key Features:**
+- 💬 **Real-time collaboration:** Work with your teammates on the same canvas instantly.  
+- 🎨 **Component system:** Reuse elements like buttons and navigation bars to keep designs consistent.  
+- 🧭 **Prototyping tools:** Create clickable wireframes to test navigation flow.  
+- ☁️ **Cloud-based storage:** Access your designs from anywhere, no installation needed.  
+- 🔄 **Version history:** Easily track and revert changes.
+
+**Why It’s Great for Wireframing:**
+Figma allows you to move from **low-fidelity to high-fidelity** designs seamlessly.  
+You can start with simple wireframes and then gradually add visuals, colors, and interactions — all within the same platform.
+
+### 🧩 2. Other Popular Tools
+- **Balsamiq:** Great for quick, sketch-style low-fidelity wireframes.  
+- **Adobe XD:** Offers advanced design and prototyping tools.  
+- **Sketch:** Popular for macOS users, excellent for detailed UI design.  
+- **Miro:** Useful for brainstorming, user flows, and early-stage wireframes.
+
+
+
