@@ -131,3 +131,36 @@ In short, wireframes serve as the **bridge between design and development**, ens
 
 
 
+## 🧪 Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+During the early stages of developing a **fitness tracking app**, the design team created several low-fidelity wireframes to map out user journeys — from signing up to logging workouts.
+
+### ⚠️ The Problem
+While reviewing the wireframes, testers and team members noticed that:
+- The **“Log Workout” button** was buried under multiple screens, making it hard to access quickly.  
+- The **navigation bar** wasn’t consistent across pages, confusing users when switching between workout and progress tracking sections.
+
+If these issues hadn’t been caught early, developers might have built a layout that frustrated users and increased bounce rates.
+
+### ✅ The Solution
+The team used feedback from the wireframes to:
+- Move the **“Log Workout”** button to the home screen for easier access.  
+- Standardize the **navigation bar** across all pages for consistent UX.  
+- Simplify page transitions, ensuring smoother movement between core features.
+
+### 🚀 The Impact
+When the app launched, users found it **intuitive and easy to navigate**.  
+The redesign improved overall engagement and reduced the number of onboarding questions new users asked.
+
+---
+
+### 🧭 Conclusion
+This scenario shows how **wireframing helps identify usability problems before a single line of code is written**.  
+By visualizing layout and flow early, teams can fix issues fast, save resources, and create products that **feel natural and user-friendly** from day one.
+
+Wireframing ensures that design decisions are intentional — making it a cornerstone of any successful software project.
+
+
+
+
+
