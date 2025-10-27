@@ -39,3 +39,38 @@ Shows where **text, images, and buttons** will be positioned on the screen.
 Indicates **interactive elements** like buttons, sliders, forms, or links.  
 **Example:** Highlighting a “Search Bar” at the top of a page shows users can look up information quickly.  
 ➡️ Demonstrates how the product will respond to user actions and improve usability.
+
+
+## 🧱 Types of Wireframes
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity (lo-fi) wireframes are **basic sketches or outlines** that show the rough structure of a page without focusing on visuals or details.  
+They’re usually **black and white**, with simple boxes and placeholders representing elements like buttons or images.  
+
+**When to use:**  
+- Early in the design process to brainstorm layout ideas.  
+- When you want **quick feedback** from teammates or clients.  
+- Great for focusing on **functionality and structure** rather than aesthetics.
+
+**Example:**  
+A hand-drawn sketch on paper showing where the header, navigation, and content areas will go.
+
+---
+
+### 2. High-Fidelity Wireframes
+High-fidelity (hi-fi) wireframes are **detailed and polished** versions that include accurate spacing, colors, typography, and even interactive elements.  
+They look close to the final design but may not be fully functional yet.  
+
+**When to use:**  
+- Later in the design process when layout decisions are finalized.  
+- When presenting to stakeholders or developers for **handoff**.  
+- Useful for testing **visual design and user experience** details.
+
+**Example:**  
+A detailed Figma prototype showing real images, styled buttons, and proper alignment.
+
+
+## Under a new section, explain what type of wire frame is here
+This is a High-fidelity (hi-fi) wireframe since it includes accurate spacing, colors, typography, and even interactive elements.
+
+
